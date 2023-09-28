@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+
+h1{
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo",cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+footer{
+    color: #DBEDF3;
+    font-family: sans-serif;
+
+}
+
+.m{
+    background-image: url("assets/images/drum2.jpg");
+}
+
+.a{
+    background-image: url("assets/images/druma.jpg");
+}
+
+.s{
+    background-image: url("assets/images/drums.jpg");
+}
+
+.d{
+    background-image: url("assets/images/drum2.jpg");
+}
+
+.j{
+    background-image: url("assets/images/drum2.jpg");
+}
+
+.k{
+    background-image: url("assets/images/drum2.jpg");
+}
+
+.l{
+    background-image: url("assets/images/drum2.jpg");
+}
+.drum{
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: "Arvo",cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    border-radius: 5px ;
+    width: 150px;
+}
